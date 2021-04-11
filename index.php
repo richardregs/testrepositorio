@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola con GIT con github y volvio a cambiar desde github"
+echo "Hola github desde mmi pc"
 
 ?>
