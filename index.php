@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola con GIT con github y volvio a cambiar"
+echo "Hola con GIT con github y volvio a cambiar desde github"
 
 ?>
